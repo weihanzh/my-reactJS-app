@@ -10,6 +10,7 @@ const styles = {
         borderStyle: 'none',
         outline: 'none',
         marginTop: 20,
+        fontFamily: 'Roboto-Regular',
     },
     line: {
         borderBottomWidth: 1,
