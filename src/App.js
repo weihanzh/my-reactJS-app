@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div style={styles.container}>
 
+
       <div style={styles.panel}>
 
         <p style={styles.header}>BIG FISH</p>
